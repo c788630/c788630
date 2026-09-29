@@ -6,15 +6,14 @@
 - Exploring **number theory** through code — projects like a *number classifier* (numclass) and *Erdős–Straus Explorer*
 
 ### 🔧 Interests & Projects
-- 🖥 Retrocomputing: preservation, modernization, and emulation  
-- 🔢 Number theory explorations: conjectures, classification, experimental math with Python
-- 🛠 Sharing reproducible code and tools for curiosity-driven research
+- Retrocomputing: preservation, modernization, and emulation  
+- Number theory explorations: conjectures, classification, experimental math with Python
+- Dutch Teletekst preservation
 
 ### 🌐 Find me on
 - [GitHub](https://github.com/c788630)  
-- [Dutch Retro Electronics Blog](https://marcelselektronica.blogspot.com/)  
+- [Dutch Retro Electronics Blog](https://marcelselektronica.nl/)  
 - [Bluesky](https://bsky.app/profile/marcelvdinteren.bsky.social)
 
----
-
-> I like building bridges between **technology history** and **modern electronics** and **mathematical exploration** — using code as a common language.
+My Teletekst archive:
+- [Teletekstarchief](https://teletekstarchief.nl)
