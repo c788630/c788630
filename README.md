@@ -2,8 +2,8 @@
 
 ### 💻 About me
 - Former electronics engineer and software developer  
-- Now focused on **retrocomputer preservation & modernization**  
-- Exploring **number theory** through code — projects like a *number classifier* (numclass) and *Erdős–Straus Explorer*
+- Trying to preserve our digital heritage
+- Exploring **number theory** through code — projects like a *number classifier* (numclass)
 
 ### 🔧 Interests & Projects
 - Retrocomputing: preservation, modernization, and emulation  
